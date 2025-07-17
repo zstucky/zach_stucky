@@ -11,7 +11,7 @@ title: Home
 
 <section class="about responsive-about">
   <div class="profile-pic">
-    <img src="/assets/profile.jpg" alt="Picture of Zachary">
+    <img src="./assets/profile.jpg" alt="Picture of Zachary">
   </div>
   <div class="about-text">
     <p>
@@ -22,19 +22,19 @@ title: Home
 
 <section class="grid">
   <a class="grid-item" href="/projects">
-    <img src="/assets/it.jpg" alt="Career">
+    <img src="./assets/it.jpg" alt="Career">
     <span>IT Career</span>
   </a>
   <a class="grid-item" href="/tutoring">
-    <img src="/assets/tutoring.jpg" alt="Academic Tutoring">
+    <img src="./assets/tutoring.jpg" alt="Academic Tutoring">
     <span>Academic Tutoring</span>
   </a>
   <a class="grid-item" href="/coaching">
-    <img src="/assets/basketball.jpeg" alt="Basketball">
+    <img src="./assets/basketball.jpeg" alt="Basketball">
     <span>Basketball</span>
   </a>
   <a class="grid-item" href="/faith">
-    <img src="/assets/faith.jpg" alt="Faith">
+    <img src="./assets/faith.jpg" alt="Faith">
     <span>Faith + Community Service</span>
   </a>
 </section>
