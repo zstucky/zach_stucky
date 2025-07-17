@@ -5,11 +5,11 @@ title: Home
 
 <section class="intro-banner">
   <div class="banner-text">
-    <h1>Zachary K Stucky</h1>
+    <h1>Zach Stucky</h1>
   </div>
 </section>
 
-<section class="about">
+<section class="about responsive-about">
   <div class="profile-pic">
     <img src="/assets/profile.jpg" alt="Picture of Zachary">
   </div>
