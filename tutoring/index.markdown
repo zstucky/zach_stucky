@@ -14,30 +14,53 @@ title: Academic Tutoring
   </header>
   <h2>Quality personal tutoring for an affordable price</h2>
   <div class="tutoring-cards">
-    <div class="tutoring-card">academic honors</div>
-    <div class="tutoring-card">services offered</div>
-    <div class="tutoring-card">experience w/kids</div>
+    <div class="tutoring-card">
+      <img src="/assets/placeholder.svg" alt="Placeholder Image">
+      <p>academic honors</p>
+    </div>
+    <div class="tutoring-card">
+      <img src="/assets/placeholder.svg" alt="Placeholder Image">
+      <p>services offered</p>
+    </div>
+    <div class="tutoring-card">
+      <img src="/assets/s45.heic" alt="Placeholder Image">
+      <h3>Mentorship Experience</h3>
+      <p>This is where the text will go about this section.</p>
+    </div>
   </div>
 </section>
 
 <section class="schedule-box">
+  <h2>The first meeting is <strong>FREE!</strong></h2>
   <p>The first meeting we will...</p>
+  <table class="availability-table">
+    <thead>
+      <tr>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thursday</th>
+        <th>Friday</th>
+        <th>Saturday</th>
+        <th>Sunday</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>4–6 PM<br>6–8 PM<br>8–9 PM</td>
+        <td>3–5 PM<br>5–7 PM<br>7–8 PM</td>
+        <td>4–6 PM<br>6–8 PM</td>
+        <td>3–5 PM<br>5–7 PM<br>7–8 PM</td>
+        <td>Unavailable</td>
+        <td>10 AM–1 PM<br>1–3 PM<br>3–4 PM</td>
+        <td>2–4 PM<br>4–6 PM<br>6–7 PM</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>If you’re ready to take the next step, don’t hesitate to reach out. I’m here to help you succeed!</p>
+  <a href="/contact" class="book-now-button">Book Now</a>
 </section>
 
 <section class="testimonial-box">
   <h3>Testimonials</h3>
 </section>
-
-<style>
-  @media (max-width: 600px) {
-    .tutoring-cards {
-      flex-direction: column;
-      align-items: center;
-    }
-
-    .tutoring-card {
-      width: 100%;
-      max-width: 300px;
-    }
-  }
-</style>
