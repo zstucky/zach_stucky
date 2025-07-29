@@ -174,3 +174,78 @@ body {
     transform: scale(1.6);
   }
 }
+/* Tutoring Section Styles */
+.tutoring-banner {
+  background-image: url('/assets/chalkboard.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 40px 20px;
+  text-align: center;
+  color: white;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  font-size: 20px;
+}
+
+.tutoring-cards {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 30px;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 600px) {
+  .tutoring-cards {
+    flex-wrap: wrap;
+  }
+
+  .tutoring-cards {
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .tutoring-card {
+    width: 100%;
+    max-width: 300px;
+  }
+}
+
+.tutoring-card {
+  border: 3px solid white;
+  border-radius: 20px;
+  padding: 40px;
+  min-width: 165px;
+  color: white;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  font-size: 18px;
+  background-color: rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+  flex: 1 1 0;
+  max-width: 250px;
+  box-sizing: border-box;
+}
+
+.tutoring-card:hover {
+  transform: scale(1.05);
+}
+
+.schedule-box {
+  padding: 40px 20px;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+.testimonial-box {
+  background-image: url('/assets/chalkboard-dark.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 60px 20px;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+}
