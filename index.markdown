@@ -25,7 +25,7 @@ title: Home
     <img src="./assets/it.jpg" alt="Career">
     <span>IT Career</span>
   </a>
-  <a class="grid-item" href="/tutoring">
+  <a class="grid-item" href="./tutoring">
     <img src="./assets/tutoring.jpg" alt="Academic Tutoring">
     <span>Academic Tutoring</span>
   </a>
