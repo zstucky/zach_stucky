@@ -7,23 +7,23 @@ title: Academic Tutoring
   <header class="tutoring-header">
     <div class="tutoring-header-left">Academic Tutoring</div>
     <div class="tutoring-header-right">
-      <a href="/" aria-label="Go to homepage">
-        <img src="/assets/profile.jpg" alt="Profile Picture" />
+      <a href="/zach_stucky" aria-label="Go to homepage">
+        <img src="./../assets/profile.jpg" alt="Profile Picture" />
       </a>
     </div>
   </header>
   <h2>Quality personal tutoring for an affordable price</h2>
   <div class="tutoring-cards">
     <div class="tutoring-card">
-      <img src="/assets/placeholder.svg" alt="Placeholder Image">
+      <img src="./../assets/placeholder.svg" alt="Placeholder Image">
       <p>academic honors</p>
     </div>
     <div class="tutoring-card">
-      <img src="/assets/placeholder.svg" alt="Placeholder Image">
+      <img src="./../assets/placeholder.svg" alt="Placeholder Image">
       <p>services offered</p>
     </div>
     <div class="tutoring-card">
-      <img src="/assets/s45.heic" alt="Placeholder Image">
+      <img src="./../assets/s45.heic" alt="Placeholder Image">
       <h3>Mentorship Experience</h3>
       <p>This is where the text will go about this section.</p>
     </div>

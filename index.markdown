@@ -5,7 +5,7 @@ title: Home
 
 <section class="intro-banner">
   <div class="banner-text">
-    <h1>Zach Stucky</h1>
+    <h1>Zach Stucky2</h1>
   </div>
 </section>
 
@@ -21,7 +21,7 @@ title: Home
 </section>
 
 <section class="grid">
-  <a class="grid-item" href="/projects">
+  <a class="grid-item" href="./projects">
     <img src="./assets/it.jpg" alt="Career">
     <span>IT Career</span>
   </a>
@@ -29,11 +29,11 @@ title: Home
     <img src="./assets/tutoring.jpg" alt="Academic Tutoring">
     <span>Academic Tutoring</span>
   </a>
-  <a class="grid-item" href="/coaching">
+  <a class="grid-item" href="./coaching">
     <img src="./assets/basketball.jpeg" alt="Basketball">
     <span>Basketball</span>
   </a>
-  <a class="grid-item" href="/faith">
+  <a class="grid-item" href="./faith">
     <img src="./assets/faith.jpg" alt="Faith">
     <span>Faith + Community Service</span>
   </a>
